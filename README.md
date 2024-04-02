@@ -1,4 +1,4 @@
-![image](https://github.com/Allan122/Mentorness/assets/45638226/78d67ccf-69b3-446a-8267-031ee5861b20)# Mentorness
+# Mentorness
 
 # World Cup 2023 Analysis
 
